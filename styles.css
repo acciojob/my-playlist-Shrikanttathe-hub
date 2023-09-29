@@ -22,19 +22,21 @@
 	text-align:center;
 }
 #video1{
-     width:80%;
+	
+	width:80%;
 	padding:20px;
 }
 .player_one{
+	background-color: rgb(255, 255, 255); 
 	border:2px solid black;
 	border-radius:5px;
-	background:#ffffff;
 	justify-content:center;
 	margin-left:30px;
 	margin-right:40px;
 	padding-left:40px;
 }
 .player_two{
+	background: rgb(255, 255, 255); 
 	width:100%;
 	padding:0px;
 }
