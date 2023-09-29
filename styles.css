@@ -1,1 +1,63 @@
 /*  your css code here. If applicable */
+.body-1{
+	background-color: rgb(204, 204, 204)
+}
+#head1{
+	text-align:center;
+	
+}
+#playlist{
+	padding:10px;
+	border:2px solid black;
+	border-radius:5px;
+	background:#ffffff;
+	margin-left:10px;
+	margin-right:10px;
+}
+#head2{
+	text-align:center;
+	margin-top:0px;
+}
+#head3{
+	text-align:center;
+}
+#video1{
+     width:80%;
+	padding:20px;
+}
+#videosection{
+	border:2px solid black;
+	border-radius:5px;
+	background:#ffffff;
+	justify-content:center;
+	margin-left:30px;
+	margin-right:40px;
+	padding-left:40px;
+}
+#audio1{
+	width:100%;
+	padding:0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
