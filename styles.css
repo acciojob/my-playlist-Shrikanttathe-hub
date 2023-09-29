@@ -25,7 +25,7 @@
      width:80%;
 	padding:20px;
 }
-#videosection{
+.player_one{
 	border:2px solid black;
 	border-radius:5px;
 	background:#ffffff;
@@ -34,7 +34,7 @@
 	margin-right:40px;
 	padding-left:40px;
 }
-#audio1{
+.player_two{
 	width:100%;
 	padding:0px;
 }
